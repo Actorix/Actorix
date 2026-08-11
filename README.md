@@ -5,7 +5,7 @@
 
 <!-- ░░ HERO — Typing intro ░░ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=780&height=46&lines=Actorix+%E2%80%94+Intelligent+software+for+modern+businesses;AI+Automation+%C2%B7+Custom+Software+%C2%B7+SaaS;Fixed+scope.+Weekly+demos.+Shipped+in+weeks.;You+talk+directly+to+the+engineer+who+builds+it" alt="Actorix — Intelligent software for modern businesses" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=940&height=50&lines=Actorix+%E2%80%94+Intelligent+software+for+modern+businesses;AI+Automation+%C2%B7+Custom+Software+%C2%B7+SaaS;Fixed+scope.+Weekly+demos.+Shipped+in+weeks.;You+talk+directly+to+the+engineer+who+builds+it" alt="Actorix — Intelligent software for modern businesses" />
 </h1>
 
 <!-- ░░ Sub-headline ░░ -->
@@ -126,14 +126,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Actorix&layout=compact&theme=transparent&title_color=EF4444&text_color=9A9AA3&hide_border=true&langs_count=8" alt="Top Languages" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Actorix&hide_border=true&background=0B0B0F&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=9A9AA3&dates=52525E&stroke=1F1F27" alt="GitHub Streak" width="460" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Actorix&bg_color=0B0B0F&color=EF4444&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=Building%20in%20public" alt="Contribution Activity Graph" width="900" />
 </p>
 
@@ -166,12 +158,12 @@ Get a range for your project with the **[estimator](https://actorix.in/#estimate
   <a href="https://actorix.in"><img src="https://img.shields.io/badge/Website-EF4444?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0B0F" alt="Website" /></a>
   <a href="https://www.linkedin.com/company/actorix/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0F" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/actorix.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B0B0F" alt="Instagram" /></a>
-  <a href="mailto:hello@actorix.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0F" alt="Email" /></a>
+  <a href="mailto:actorix.business@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0F" alt="Email" /></a>
   <a href="https://wa.me/919136433771"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B0B0F" alt="WhatsApp" /></a>
   <a href="https://cal.com/actorix-9b0leh"><img src="https://img.shields.io/badge/Book_a_call-0B0B0F?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
 </p>
 
 <p align="center">
-  <b>Got something to build?</b> We reply within 24 hours — <a href="mailto:hello@actorix.in">hello@actorix.in</a><br/>
+  <b>Got something to build?</b> We reply within 24 hours — <a href="mailto:actorix.business@gmail.com">actorix.business@gmail.com</a><br/>
   <sub>Founded by <a href="https://github.com/Ajinkyaa2004">Ajinkya Dhumal</a> · Mumbai, India 🇮🇳 · Working worldwide</sub>
 </p>
